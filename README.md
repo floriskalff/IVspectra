@@ -5,3 +5,6 @@ author Floris Kalff
 
 -connect to github
 -make def's more standalone
+
+
+# load spectra more easily, just learning github
